@@ -6,8 +6,8 @@ package controladora;
 
 /**
  *
- * @author student
+ * @author Hammer
  */
-public class admUsauarios {
+public class admUsuarios {
     
 }
